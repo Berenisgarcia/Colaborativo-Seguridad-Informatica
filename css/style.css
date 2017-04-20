@@ -86,7 +86,7 @@ li{
 
 nav li a:hover {
 	font-family: verdana;
-	
+
 }
 
 
@@ -99,6 +99,18 @@ a{
 section{
 
 	width: 700px;
+	background: white;
+	height: 600px;
+	float:left;
+	margin-top: 20px;
+	border-radius: 10px;
+	border-top-right-radius: 0;
+	border-top-left-radius: 0;	
+}
+
+section1{
+
+	width: 990px;
 	background: white;
 	height: 600px;
 	float:left;

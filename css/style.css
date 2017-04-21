@@ -41,7 +41,6 @@ h4{
 	text-align: left;
 
 }
-
 h5{
 
 	font-family: verdana;
@@ -147,25 +146,14 @@ footer{
 }
 
 p{
-	font-size: 12px;
+	font-size: 10px;
 	font-weight: bolder;
 	line-height: 24px;
 	text-align: justify;
 	margin-left: 10px;
 	margin-right: 10px;
-	font-family: verdana;
+	font-family: tahoma;
 	color: black;
 	
 }
-
-/*CLASES*/
-.ancho_menu_home{width:1000px;}
-.ancho_menu_paginas{widt:1100px;}
-
-.menu_link{padding:7px;color:white;text-decoration: none}
-.menu_visible{padding:7px;color:white;text-decoration: none}
-.menu_hover{padding:7px;color:white;text-decoration: none}
-.menu_active{padding:7px;color:white;text-decoration: none}
-
-
 
